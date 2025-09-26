@@ -1,3 +1,3 @@
-.env
-.__pycache__
-.exp.py
+env/
+__pycache__/
+exp.py
